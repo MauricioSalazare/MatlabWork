@@ -1,7 +1,8 @@
 %% IMPORT DATA FROM DALI FILES (CSV - FILES) 
 
 close all, clear all, clc, format compact
-
+%
+%
 % filename = 'SALVADOR_079.073-1.csv';  % DOESN'T WORK
 % filename = 'SALVADOR_VRY.POSTS-1.csv';
 % filename = 'SALVADOR_ESD.000376-1.csv';
