@@ -1,6 +1,6 @@
 close all, clear all, clc, format compact
 % Este es un cambio tonto, quiero que esto quede en github
-    
+% Este es el segundo cambio tonto
 % data settings
 N  = 700; % number of samples
 Nu = 300; % number of learning samples

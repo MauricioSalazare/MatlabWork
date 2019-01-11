@@ -1,3 +1,6 @@
+% Este cambio es en un segundo archivo para Github
+% Otro cambio pequeño
+% Tercer cambio pequeño
 T = simplenar_dataset;
 net = narnet(1:2,10);
 [Xs,Xi,Ai,Ts] = preparets(net,{},{},T);
